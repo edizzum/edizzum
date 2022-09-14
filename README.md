@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ediz.</h1>
-<h3 align="center">A passionate Blockchain developer in Turkey.</h3>
+<h3 align="center"> Electronic and Communication Engineer. A passionate Blockchain developer in Turkey. I'm currently Learning Solidity and Rust. Interested in Blockchain and Web3.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
