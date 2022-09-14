@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ediz.</h1>
-<h3 align="center"> Electronic and Communication Engineer. A passionate Blockchain developer in Turkey. I'm currently Learning Solidity and Rust. Interested in Blockchain and Web3.</h3>
+<h3 align="center">A passionate Blockchain developer in Turkey.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edizzum&label=Profile%20views&color=0e75b6&style=flat" alt="edizzum" /> </p>
+
+- 🌱 I’m currently learning **Solidity with ITU Blockchain and YTU ChaınLAB and Rust with Patika.dev Community Gaming Solana&Rust Practicum**
+
+- 📫 How to reach me **ediz.zum@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
