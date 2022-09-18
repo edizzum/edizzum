@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity with ITU Blockchain and YTU ChaınLAB At the same time, Rust with Patika.dev Community Gaming Solana&Rust Practicum**
 
-- 📫 How to reach me **mail/ediz.zum@hotmail.com**
+- 📫 How to reach me **ediz.zum@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
