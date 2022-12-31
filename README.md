@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edizzum&label=Profile%20views&color=0e75b6&style=flat" alt="edizzum" /> </p>
 
-- 🌱 I’m currently learning **Solidity with ITU Blockchain and YTU ChaınLAB At the same time, Rust with Patika.dev Community Gaming Solana&Rust Practicum**
+- 🌱 I’m **a Rust & Solidity developer at YTU Blockchain which I'm a Board Member & ITU Blockchain Communities**
 
 - 📫 How to reach me **ediz.zum@hotmail.com**
 
