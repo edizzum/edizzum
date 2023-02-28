@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ediz.</h1>
 <h3 align="center">A passionate Blockchain developer in Turkey.</h3>
 
-- 🌱 I’m **a Rust & Solidity developer at YTU Blockchain which I'm a Board Member & ITU Blockchain Communities**
+- 🌱 I’m **a Rust & Solidity developer at Superteam Turkey(Member), YTU Blockchain(Board Member) & ITU Blockchain(Member)**
 
 - 📫 How to reach me **ediz.zum@hotmail.com**
 
