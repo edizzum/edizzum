@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ediz.</h1>
 <h3 align="center">A passionate Blockchain developer in Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edizzum&label=Profile%20views&color=0e75b6&style=flat" alt="edizzum" /> </p>
-
 - 🌱 I’m **a Rust & Solidity developer at YTU Blockchain which I'm a Board Member & ITU Blockchain Communities**
 
 - 📫 How to reach me **ediz.zum@hotmail.com**
