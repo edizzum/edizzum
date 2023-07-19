@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ediz.</h1>
 <h3 align="center">A passionate Blockchain developer in Turkey.</h3>
 
-- 🌱 I’m **a Rust & Solidity developer at Superteam Turkey(Member), YTU Blockchain(Board Member) & ITU Blockchain(Member)**
+- 🌱 I’m **a Rust & Solidity developer at Nova Ratio(Intern), Superteam Turkey(Member), YTU Blockchain(Board Member)**
 - :telescope: I have done various jobs in different sectors. Such as, Lane Detection on Autonomous Cars(Machine Learning with AI) / OOP Backend Web Development(C# .Net Core and dealed with SQL DataBase) / Game Development(C# Unity) etc...
 - :sparkles: I'm currently working on Full-Stack dApp development on Cosmos Ecosystem / Smart Contract development on Solana Blockchain / Full-Stack Development on Solidity
 
