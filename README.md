@@ -5,7 +5,7 @@
 - :telescope: I have done various jobs in different sectors. Such as, Lane Detection on Autonomous Cars(Machine Learning with AI) / OOP Backend Web Development(C# .Net Core and dealed with SQL DataBase) / Game Development(C# Unity) etc...
 - :sparkles: I'm currently working on Full-Stack dApp development on Cosmos Ecosystem / Smart Contract development on Solana Blockchain / Full-Stack Development on Solidity
 
-- 📫 How to reach me **ediz.zum@hotmail.com**
+- 📫 How to reach me **edizzum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
