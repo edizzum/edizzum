@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ediz.</h1>
 <h3 align="center">A passionate Blockchain Developer in Turkey.</h3>
 
-- 🌱 I’m **a Solidity developer at Nova Ratio(Junior Developer), Superteam Turkey(Member), YTU Blockchain(Board Member)**
+- 🌱 I’m **a Solidity developer at Nova Ratio(Mid-Level Developer), Superteam Turkey(Member), YTU Blockchain(Supervisory Board Member)**
 - :telescope: I have done various jobs in different sectors. Such as, Lane Detection on Autonomous Cars(Machine Learning with AI) / OOP Backend Web Development(C# .Net Core and dealed with SQL DataBase) / Game Development(C# Unity) etc...
 - :sparkles: I'm currently working on Full-Stack dApp Development on Solidity
 
